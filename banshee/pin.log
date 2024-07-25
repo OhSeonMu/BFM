@@ -1,0 +1,3 @@
+Pin 2.14 kit 71293
+A:  Source/pin/vm_ia32/jit_iarg_ia32.cpp: SetupArgumentBranchTarget: 2846: assertion failed: INS_CallOrBranchIsMemoryIndirect(ins)
+
