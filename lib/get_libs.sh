@@ -1,6 +1,6 @@
 # !/bin/bash
 
-pt-get -y install build-essential
+apt-get -y install build-essential
 apt-get -y install scons
 apt-get -y install automake
 apt-get -y install autoconf
